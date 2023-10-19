@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>许宏亮的网站</title>
+</head>
+<body>
+
+    <div style="
+    background-color: hwb(132 57% 41%);
+    text-align: center;
+    padding: 40px;"
+    >
+    <img src="C:\Users\xuhl\Pictures\Camera Roll\logo10.png" alt="头像" width="100px" hegiht="100px>
+</div>
+    
+     
+    
+    <div style="
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;>
+    </div>
+    
+    <p>你好啊</p>
+    <p>我是许宏亮，我来自山东，欢迎来到我的网站。</p>
+    <p>关于这个网站，我想向你分享一些我认为很棒电影。</p>
+    <p>教父1</p>
+    <p>教父2</p>
+    <p>教父3</p>
+    <p>你可以点击友情链接，那里面是一个非常的网站。</p>
+    <p>我想他一定可以引起你的兴趣</p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <div style="
+    background-color: rgb(139, 145, 145);
+    text-align: center;
+    padding: 40px;
+    font-size: 12px;">
+    <p>我的网站</p>
+    <a href="https://baike.baidu.com/item/%e6%95%99%e7%88%b6/4361541">友情链接</a>
+    </div>
+    
+</body>
+</html>
